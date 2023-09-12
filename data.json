@@ -1,9 +1,9 @@
 [
-  { "year": 2010, "count": 10 },
-  { "year": 2011, "count": 20 },
-  { "year": 2012, "count": 15 },
-  { "year": 2013, "count": 25 },
-  { "year": 2014, "count": 22 },
-  { "year": 2015, "count": 30 },
-  { "year": 2016, "count": 28 }
+  { "measured": 12.3, "ref": 4.5 },
+  { "measured": 6.8, "ref": 6.7 },
+  { "measured": 4.3, "ref": 4.7 },
+  { "measured": 3.5, "ref": 3.4 },
+  { "measured": 7.13, "ref": 7.3 },
+  { "measured": 3.46, "ref": 3.4 },
+  { "measured": 6.54, "ref": 6.7 }
 ]
