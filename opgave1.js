@@ -10,7 +10,7 @@ export function opgave1() {
       labels: data.map((row) => row.year),
       datasets: [
         {
-          label: 'Fat %',
+          label: 'Measured',
           data: data.map((row) => row.count),
         },
       ],
